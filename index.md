@@ -1,9 +1,6 @@
----
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
----
 I'm still working on stuff to add here right now. For the time being enjoy this picture:
 
 ![cute-puppy](/images/berkay-gumustekin-ngqyo2AYYnE-unsplash.jpg){:class="img-responsive"}
