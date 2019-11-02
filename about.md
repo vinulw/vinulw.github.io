@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 # Hey
 
 Welcome to my blog. Given time I expect that there will be some brief ramblings on here about stuff I find interesting. I am a final year physics student at Imperial College London so expect to see some stuff about physics.
