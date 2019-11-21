@@ -1,9 +1,8 @@
 ---
-title: 'The EPR though experiment'
+layout: post
+title: 'The EPR though experiment - What is real?'
+author: Vinul
 ---
-
-# The EPR thought experiment - What is real?
->21/11/2019
 
 What are the fundamental conditions on realism? What does it mean for a theory to be considered complete? Is the moon there when nobody looks? These are all questions that have been asked of quantum mechanics. And behind these questions are extraordinary minds, battling it out to prove their view of the world as the fundamental truth.
 
