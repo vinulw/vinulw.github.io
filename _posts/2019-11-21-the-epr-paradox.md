@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: 'The EPR though experiment - What is real?'
 author: Vinul
 ---
@@ -44,3 +45,4 @@ If you want to find out more about the EPR thought experiment check out these li
 
 - [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qt-epr/) has a much more detailed account of the EPR paradox, it's history and it's relevance to modern day.
 - [The EPR paradox, Bell's inequality, and the question of locality](https://arxiv.org/abs/0902.3827) by Guy Blaylock is a paper which goes through the EPR paradox and perhaps one of it's most significant outcomes, Bell's inequalities, very well. It assumes at least an introductory knowledge of quantum mechanics. It's a pretty good place to get started if you are interested in some more of the mathematical details.
+
