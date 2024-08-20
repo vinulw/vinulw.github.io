@@ -1,0 +1,15 @@
+baseURL = 'https://vinulw.com/'
+languageCode = 'en-us'
+title = "hi I'm vinul"
+theme = 'archie'
+
+[params]
+  mode = "auto"
+  subtitle = "I'm in my final year of my PhD at UCL, studying physics. I'm really excited about using quantum computers for quantum simulation and developing near-term quantum algorithms, drawing insights from tensor networks."
+  mathjax = true
+  katex = true
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/vinulw"
