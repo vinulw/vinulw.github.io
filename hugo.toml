@@ -5,7 +5,7 @@ theme = 'archie'
 
 [params]
   mode = "auto"
-  subtitle = "I'm in my final year of my PhD at UCL, studying physics. I'm really excited about using quantum computers for quantum simulation and developing near-term quantum algorithms, drawing insights from tensor networks."
+  subtitle = "I'm a final year PhD student at UCL, studying physics. I'm really excited about using quantum computers for quantum simulation and developing near-term quantum algorithms, drawing insights from tensor networks."
   mathjax = true
   katex = true
 
